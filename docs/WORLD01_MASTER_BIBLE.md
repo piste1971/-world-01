@@ -1,6 +1,6 @@
 # WORLD//01 — Master Bible
 
-**Versione:** 0.1  
+**Versione:** 0.2  
 **Data:** 17 agosto 2026  
 **Stato:** base narrativa e percorso MVP approvati in modo provvisorio  
 **Titolo stagione:** WORLD//01 — THE MERIDIAN PROTOCOL  
@@ -347,8 +347,6 @@ Giocatore → scoperta di una necessità geografica → ricerca di qualcuno nell
 
 ### Ancora da definire
 
-- identità e personalità complete di Adrian Vale;
-- membri e struttura del consiglio Meridian;
 - nome definitivo di Atlas;
 - luogo e dettagli tecnici dell’intercettazione del 1977;
 - motivo esatto della data 2028;
@@ -357,3 +355,125 @@ Giocatore → scoperta di una necessità geografica → ricerca di qualcuno nell
 - sistema di punteggio;
 - enigmi specifici di Mission 000 e delle missioni successive;
 - infrastruttura tecnica e servizi esterni.
+
+
+## 18. Adrian Vale
+
+Adrian Vale è un ricercatore britannico di circa 48 anni, specializzato in sistemi distribuiti, reti di comunicazione e verifica delle informazioni. Prima di entrare in Meridian lavorava presso un istituto europeo di ricerca a Ginevra.
+
+Nel 2011 partecipa inconsapevolmente al secondo esperimento Meridian. Non viene scelto perché risolve più enigmi degli altri, ma perché riesce a creare collegamenti tra persone che non si conoscono. Dopo il test viene reclutato da Meridian.
+
+Per anni crede che l’organizzazione stia cercando di comprendere il segnale. Accedendo agli archivi riservati scopre che le trasmissioni del 1994 e del 2011 erano esperimenti artificiali, mentre quella del 1977 rimane autentica.
+
+Vale contribuisce allo sviluppo del protocollo, introduce verifiche incrociate e propone identità anonime. Diventa direttore della divisione scientifica e ottiene un posto nel Direttorio Meridian.
+
+### 18.1 Personalità
+
+Vale è calmo, preciso e poco teatrale. Crede nell’intelligenza collettiva, ma tende a pensare che le persone, se messe nelle condizioni giuste, utilizzeranno responsabilmente la rete.
+
+Sottovaluta il rischio di infiltrazioni, il coinvolgimento di persone che non comprendono completamente il progetto e il possibile uso futuro della rete per finalità diverse dalle sue.
+
+Vale vuole liberare Meridian, ma per farlo manipola in parte i giocatori: nasconde il vero obiettivo e li osserva mentre costruiscono la rete.
+
+### 18.2 Perché non racconta subito la verità
+
+Una semplice raccolta di volontari non dimostrerebbe che la rete funzioni. Vale deve osservare cosa fanno realmente le persone quando possiedono informazioni incomplete, devono fidarsi di sconosciuti, possono trattenere una scoperta o devono trovare qualcuno in un’altra città.
+
+Per questo nasconde lo scopo dietro l’indagine sul segnale e sulla propria scomparsa. Considera l’omissione necessaria, ma ciò non significa che abbia automaticamente ragione.
+
+### 18.3 Il piano
+
+Il piano di Vale consiste nel:
+
+1. utilizzare la falsa trasmissione del 2026 per attirare l’attenzione;
+2. attivare il rilascio automatico attraverso la propria scomparsa;
+3. reclutare i primi Agent tramite Mission 000;
+4. obbligare le squadre a creare collegamenti geografici reali;
+5. distribuire il controllo della rete tra molti gruppi.
+
+Vale non vuole diventare il capo permanente di WORLD//01. Vuole creare una rete che non possa essere controllata né da lui né dal Direttorio.
+
+> IF ONE INSTITUTION CONTROLS THE WITNESSES, IT CONTROLS THE TRUTH.  
+> Se una sola istituzione controlla i testimoni, controlla la verità.
+
+## 19. Helena Voss
+
+La dottoressa Helena Voss è la direttrice generale di Meridian. Ha circa 56 anni, è svizzera e proviene dal settore della gestione delle infrastrutture critiche.
+
+Anche Voss è stata individuata da uno dei precedenti esperimenti: partecipò al ciclo del 1994. Durante quel test vide quanto facilmente una rete non addestrata potesse essere bloccata o manipolata. Arrivò quindi alla conclusione che una rete mondiale possa funzionare soltanto se protetta e composta da persone selezionate.
+
+Voss è stata una delle persone che hanno reclutato Vale nel 2011 e per anni è stata la sua mentore. Entrambi credono che la rete sia necessaria; divergono su chi debba controllarla.
+
+Per Voss, WORLD//01 è un esperimento irresponsabile che espone informazioni riservate e coinvolge persone comuni senza spiegare loro la vera natura del progetto.
+
+### 19.1 Il dubbio di Voss
+
+Il segnale del 1977 non si è limitato a trasmettere informazioni: ha indotto persone lontane a collegarsi e collaborare. Meridian interpreta questa caratteristica come un invito a costruire una rete.
+
+Voss teme che sia un errore. Nessuno conosce l’autore del segnale né il motivo per cui desiderasse creare quella rete. Forse costruirla significa eseguire le istruzioni di una fonte sconosciuta.
+
+> YOU ASSUME THE SIGNAL WANTED TO BE UNDERSTOOD. WHAT IF IT WANTED TO BE OBEYED?  
+> Date per scontato che il segnale volesse essere compreso. E se invece volesse essere obbedito?
+
+> YOU ARE NOT INVESTIGATING THE SIGNAL. YOU ARE COMPLETING IT.  
+> Non state indagando sul segnale. Lo state completando.
+
+## 20. Il Direttorio Meridian
+
+Meridian è guidato da un Direttorio composto da sette posizioni:
+
+1. direzione generale;
+2. ricerca e analisi del segnale;
+3. archivio e autenticazione;
+4. operazioni della rete;
+5. sicurezza e contenimento;
+6. supervisione legale ed etica;
+7. rapporti con le istituzioni finanziatrici.
+
+Helena Voss occupa la direzione generale. Adrian Vale occupava la posizione dedicata alla ricerca e all’analisi del segnale. Quando il Direttorio approva Atlas, Vale vota contro ma rimane in minoranza.
+
+Gli altri membri non appaiono immediatamente. Nella prima stagione possono essere identificati attraverso firme, iniziali, voci censurate e documenti.
+
+### 20.1 Meridian Control
+
+Meridian Control non è una persona. È l’infrastruttura automatica che gestisce archivi, relay, autorizzazioni e comunicazioni. I materiali della Founding Wave provengono da questo sistema automatico predisposto da Vale.
+
+### 20.2 Atlas
+
+Atlas è il sistema centralizzato progettato dal Direttorio per il 2028. Dovrebbe registrare identità reali, competenze, luoghi raggiungibili e affidabilità degli Agent.
+
+Voss considera Atlas necessario per impedire infiltrazioni. Vale lo considera uno strumento di sorveglianza. WORLD//01 rappresenta una versione alternativa: pseudonima, distribuita e non controllata da una sola istituzione.
+
+## 21. Come i giocatori vivono il conflitto
+
+Nella prima parte della stagione i giocatori conoscono soprattutto la versione di Vale e credono che il Direttorio lo abbia fatto sparire.
+
+Successivamente ricevono una comunicazione autentica di Helena Voss:
+
+> ADRIAN VALE IS NOT MISSING. HE LEFT VOLUNTARILY.  
+> Adrian Vale non è scomparso. Se n’è andato volontariamente.
+
+Voss fornisce una prova tecnica che la trasmissione del 2026 è partita da un’infrastruttura Meridian utilizzata da Vale.
+
+> HE DID NOT RELEASE A WARNING. HE ACTIVATED A RECRUITMENT SYSTEM.  
+> Non ha diffuso un avvertimento. Ha attivato un sistema di reclutamento.
+
+Vale risponde mostrando i documenti di Atlas e dimostrando che il Direttorio intendeva raccogliere identità, posizioni e relazioni dei partecipanti.
+
+Nessuna parte è completamente affidabile:
+
+- Vale ha mentito e utilizzato i giocatori per costruire la rete;
+- Voss vuole proteggerla, ma anche mantenerne il controllo;
+- entrambi ignorano la vera origine del segnale;
+- entrambi temono ciò che potrebbe accadere nel 2028.
+
+## 22. La terza soluzione
+
+La scelta finale non deve ridursi a “Vale oppure Voss”. I giocatori possono dimostrare che una rete distribuita può avere regole senza dipendere da un’autorità unica.
+
+Nella Final Mission il controllo può essere suddiviso tra molte squadre. Nessuna squadra, Vale compreso, può attivare o modificare il sistema da sola. È necessario il consenso di più nodi indipendenti.
+
+> NO SINGLE NODE CONTROLS THE NETWORK.  
+> Nessun singolo nodo controlla la rete.
+
+Vale deve accettare di perdere il controllo. Voss può riconoscere che la rete ha dimostrato una capacità di autoregolazione. Il conflitto non termina definitivamente, perché nel 2028 entrambe le prospettive potrebbero rivelarsi necessarie.

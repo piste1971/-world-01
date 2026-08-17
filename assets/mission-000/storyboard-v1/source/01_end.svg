@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+    
+    <rect width="1920" height="1080" fill="#050505" opacity="0.72"/>
+    <rect x="54" y="54" width="1812" height="972" rx="2" fill="none" stroke="#3A3731" stroke-width="1" opacity="0.48"/>
+    <text x="86" y="102" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="25" font-weight="700" letter-spacing="4" text-anchor="start" opacity="1">WORLD//01</text>
+    <text x="1834" y="102" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="14" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">MERIDIAN RELAY / MISSION 000</text>
+    <line x1="86" y1="126" x2="1834" y2="126" stroke="#3A3731" stroke-width="1" opacity="0.75"/>
+    <text x="86" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="3.2" text-anchor="start" opacity="1">THE WORLD IS THE ROOM</text>
+    <text x="1834" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">ARCHIVE CHANNEL 00</text>
+  
+    
+      <text x="960" y="352" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="400" letter-spacing="4" text-anchor="middle" opacity="1">MISSION 000</text>
+      <text x="960" y="451" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="36" font-weight="600" letter-spacing="4" text-anchor="middle" opacity="1">ENTRY REQUEST RECEIVED</text>
+      <line x1="770" y1="505" x2="1150" y2="505" stroke="#3A3731"/>
+      
+    <text x="775" y="558" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2.2" text-anchor="start" opacity="1">AGENT</text>
+    <text x="775" y="591" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="20" font-weight="600" letter-spacing="1.8" text-anchor="start" opacity="1">#004817</text>
+  
+      
+    <text x="1030" y="558" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2.2" text-anchor="start" opacity="1">STATUS</text>
+    <text x="1030" y="591" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="20" font-weight="600" letter-spacing="1.8" text-anchor="start" opacity="1">CANDIDATE</text>
+  
+      <text x="960" y="705" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="3" text-anchor="middle" opacity="1">CHECKING AVAILABLE RELAYS</text>
+      <circle cx="960" cy="755" r="4" fill="#A78252" opacity="0.9"/>
+    
+  </svg>

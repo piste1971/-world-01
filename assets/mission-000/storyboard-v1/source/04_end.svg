@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+    
+    <rect width="1920" height="1080" fill="#050505" opacity="0.32"/>
+    <rect x="54" y="54" width="1812" height="972" rx="2" fill="none" stroke="#3A3731" stroke-width="1" opacity="0.48"/>
+    <text x="86" y="102" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="25" font-weight="700" letter-spacing="4" text-anchor="start" opacity="1">WORLD//01</text>
+    <text x="1834" y="102" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="14" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">MERIDIAN RELAY / MISSION 000</text>
+    <line x1="86" y1="126" x2="1834" y2="126" stroke="#3A3731" stroke-width="1" opacity="0.75"/>
+    <text x="86" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="3.2" text-anchor="start" opacity="1">THE WORLD IS THE ROOM</text>
+    <text x="1834" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">ARCHIVE CHANNEL 00</text>
+  
+    
+      
+    <path d="M 1623 460 Q 1325 285 1034 419" fill="none" stroke="#A78252" stroke-width="2" opacity="0.66" stroke-dasharray="680 680" filter="url(#softGlow)"/>
+    <circle cx="1623" cy="460" r="17" fill="none" stroke="#A78252" stroke-width="1" opacity="0.10079999999999999"/>
+    <circle cx="1623" cy="460" r="5" fill="#E8E3D8" opacity="0.24" filter="url(#softGlow)"/>
+    <text x="1601" y="430" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="end" opacity="0.24">TOKYO</text>
+    <circle cx="1034" cy="419" r="18" fill="none" stroke="#A78252" stroke-width="1" opacity="0.48"/>
+    <circle cx="1034" cy="419" r="6" fill="#E8E3D8" opacity="1" filter="url(#softGlow)"/>
+    <text x="1012" y="461" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="end" opacity="1">FLORENCE</text>
+  
+      <rect x="420" y="278" width="1080" height="455" rx="3" fill="#050505" opacity="0.92" stroke="#3A3731" stroke-width="1"/>
+      <text x="960" y="354" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="15" font-weight="400" letter-spacing="4" text-anchor="middle" opacity="1">RELAY RECEIVED</text>
+      <text x="960" y="435" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="29" font-weight="600" letter-spacing="3" text-anchor="middle" opacity="1">CHAIN OF CUSTODY TRANSFERRED</text>
+      <line x1="570" y1="487" x2="1350" y2="487" stroke="#3A3731"/>
+      
+    <text x="570" y="548" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2.2" text-anchor="start" opacity="1">FROM</text>
+    <text x="570" y="581" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="20" font-weight="600" letter-spacing="1.8" text-anchor="start" opacity="1">CANDIDATE #003921 / TOKYO</text>
+  
+      
+    <text x="1035" y="548" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2.2" text-anchor="start" opacity="1">TO</text>
+    <text x="1035" y="581" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="20" font-weight="600" letter-spacing="1.8" text-anchor="start" opacity="1">AGENT #004817 / FLORENCE</text>
+  
+      <text x="960" y="676" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="3" text-anchor="middle" opacity="1">TRANSFER COMPLETE</text>
+    
+  </svg>

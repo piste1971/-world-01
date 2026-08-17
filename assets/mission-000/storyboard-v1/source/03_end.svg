@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+    
+    <rect width="1920" height="1080" fill="#050505" opacity="0.4"/>
+    <rect x="54" y="54" width="1812" height="972" rx="2" fill="none" stroke="#3A3731" stroke-width="1" opacity="0.48"/>
+    <text x="86" y="102" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="25" font-weight="700" letter-spacing="4" text-anchor="start" opacity="1">WORLD//01</text>
+    <text x="1834" y="102" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="14" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">MERIDIAN RELAY / MISSION 000</text>
+    <line x1="86" y1="126" x2="1834" y2="126" stroke="#3A3731" stroke-width="1" opacity="0.75"/>
+    <text x="86" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="3.2" text-anchor="start" opacity="1">THE WORLD IS THE ROOM</text>
+    <text x="1834" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">ARCHIVE CHANNEL 00</text>
+  
+    
+      
+    <path d="M 1623 460 Q 1325 285 1034 419" fill="none" stroke="#A78252" stroke-width="2" opacity="0.66" stroke-dasharray="680 680" filter="url(#softGlow)"/>
+    <circle cx="1623" cy="460" r="17" fill="none" stroke="#A78252" stroke-width="1" opacity="0.2856"/>
+    <circle cx="1623" cy="460" r="5" fill="#E8E3D8" opacity="0.68" filter="url(#softGlow)"/>
+    <text x="1601" y="430" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="end" opacity="0.68">TOKYO</text>
+    <circle cx="1034" cy="419" r="18" fill="none" stroke="#A78252" stroke-width="1" opacity="0.3264"/>
+    <circle cx="1034" cy="419" r="6" fill="#E8E3D8" opacity="0.68" filter="url(#softGlow)"/>
+    <text x="1012" y="461" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="end" opacity="0.68">FLORENCE</text>
+  
+      <rect x="355" y="260" width="1210" height="485" rx="3" fill="#050505" opacity="0.94" stroke="#3A3731" stroke-width="1"/>
+      <text x="410" y="322" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="17" font-weight="700" letter-spacing="3" text-anchor="start" opacity="1">AUDIO FRAGMENT 1/2</text>
+      <text x="1510" y="322" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="1.8" text-anchor="end" opacity="1">SOURCE / CANDIDATE #003921 / TOKYO</text>
+      <line x1="410" y1="355" x2="1510" y2="355" stroke="#3A3731"/>
+      <rect x="450.0" y="473.4" width="16.3" height="21.2" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="471.3" y="466.3" width="16.3" height="35.4" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="492.5" y="453.3" width="16.3" height="61.4" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="513.8" y="467.5" width="16.3" height="33.0" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="535.0" y="441.5" width="16.3" height="85.0" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="556.3" y="459.2" width="16.3" height="49.6" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="577.5" y="434.4" width="16.3" height="99.1" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="598.8" y="463.4" width="16.3" height="41.3" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="620.0" y="447.4" width="16.3" height="73.2" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="641.3" y="430.3" width="16.3" height="107.4" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="662.5" y="456.9" width="16.3" height="54.3" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="683.8" y="443.9" width="16.3" height="80.2" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="705.0" y="465.1" width="16.3" height="37.8" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="726.3" y="439.2" width="16.3" height="89.7" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="747.5" y="455.1" width="16.3" height="57.8" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="768.8" y="432.1" width="16.3" height="103.8" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="790.0" y="459.8" width="16.3" height="48.4" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="811.3" y="450.4" width="16.3" height="67.3" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="832.5" y="466.9" width="16.3" height="34.2" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="853.8" y="445.6" width="16.3" height="76.7" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="875.0" y="462.2" width="16.3" height="43.7" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="896.3" y="436.2" width="16.3" height="95.6" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="917.5" y="455.7" width="16.3" height="56.6" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="938.8" y="442.7" width="16.3" height="82.6" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="960.0" y="469.3" width="16.3" height="29.5" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="981.3" y="452.1" width="16.3" height="63.7" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1002.5" y="463.9" width="16.3" height="40.1" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1023.8" y="438.0" width="16.3" height="92.0" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1045.0" y="458.0" width="16.3" height="51.9" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1066.3" y="449.2" width="16.3" height="69.6" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1087.5" y="471.6" width="16.3" height="24.8" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1108.8" y="444.5" width="16.3" height="79.1" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1130.0" y="461.6" width="16.3" height="44.8" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1151.3" y="435.0" width="16.3" height="97.9" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1172.5" y="457.4" width="16.3" height="53.1" rx="1" fill="#A78252" opacity="0.9"/>
+<rect x="1193.8" y="448.0" width="16.3" height="72.0" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1215.0" y="465.7" width="16.3" height="36.6" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1236.3" y="440.9" width="16.3" height="86.1" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1257.5" y="460.4" width="16.3" height="47.2" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1278.8" y="451.0" width="16.3" height="66.1" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1300.0" y="469.8" width="16.3" height="28.3" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1321.3" y="443.3" width="16.3" height="81.4" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1342.5" y="462.8" width="16.3" height="42.5" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1363.8" y="436.8" width="16.3" height="94.4" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1385.0" y="458.6" width="16.3" height="50.7" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1406.3" y="446.8" width="16.3" height="74.3" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1427.5" y="468.1" width="16.3" height="31.9" rx="1" fill="#3A3731" opacity="0.55"/>
+<rect x="1448.8" y="454.5" width="16.3" height="59.0" rx="1" fill="#3A3731" opacity="0.55"/>
+      <line x1="1184" y1="407" x2="1184" y2="562" stroke="#E8E3D8" stroke-width="1" opacity="0.75"/>
+      <text x="450" y="590" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="1" text-anchor="start" opacity="1">00:05</text>
+      <text x="1470" y="590" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="1" text-anchor="end" opacity="1">00:07</text>
+      <text x="960" y="675" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="3" text-anchor="middle" opacity="1">PLAYBACK IN PROGRESS</text>
+    
+  </svg>

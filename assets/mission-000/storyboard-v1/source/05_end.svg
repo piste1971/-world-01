@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+    
+    <rect width="1920" height="1080" fill="#050505" opacity="0.38"/>
+    <rect x="54" y="54" width="1812" height="972" rx="2" fill="none" stroke="#3A3731" stroke-width="1" opacity="0.48"/>
+    <text x="86" y="102" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="25" font-weight="700" letter-spacing="4" text-anchor="start" opacity="1">WORLD//01</text>
+    <text x="1834" y="102" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="14" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">MERIDIAN RELAY / MISSION 000</text>
+    <line x1="86" y1="126" x2="1834" y2="126" stroke="#3A3731" stroke-width="1" opacity="0.75"/>
+    <text x="86" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="3.2" text-anchor="start" opacity="1">THE WORLD IS THE ROOM</text>
+    <text x="1834" y="997" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="2.4" text-anchor="end" opacity="1">ARCHIVE CHANNEL 00</text>
+  
+    
+      
+    <path d="M 1623 460 Q 1325 285 1034 419" fill="none" stroke="#A78252" stroke-width="2" opacity="0.66" stroke-dasharray="680 680" filter="url(#softGlow)"/>
+    <circle cx="1623" cy="460" r="17" fill="none" stroke="#A78252" stroke-width="1" opacity="0.0672"/>
+    <circle cx="1623" cy="460" r="5" fill="#E8E3D8" opacity="0.16" filter="url(#softGlow)"/>
+    <text x="1601" y="430" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="end" opacity="0.16">TOKYO</text>
+    <circle cx="1034" cy="419" r="18" fill="none" stroke="#A78252" stroke-width="1" opacity="0.48"/>
+    <circle cx="1034" cy="419" r="6" fill="#E8E3D8" opacity="1" filter="url(#softGlow)"/>
+    <text x="1012" y="461" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="end" opacity="1">FLORENCE</text>
+  
+      <rect x="225" y="280" width="920" height="405" rx="3" fill="#050505" opacity="0.92" stroke="#3A3731" stroke-width="1"/>
+      <text x="280" y="350" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="17" font-weight="700" letter-spacing="3" text-anchor="start" opacity="1">SECOND FRAGMENT ROUTED</text>
+      <text x="280" y="432" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="33" font-weight="600" letter-spacing="3.4" text-anchor="start" opacity="1">DELIVERY CONFIRMED</text>
+      
+    <text x="280" y="508" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2.2" text-anchor="start" opacity="1">CHANNEL</text>
+    <text x="280" y="541" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="20" font-weight="600" letter-spacing="1.8" text-anchor="start" opacity="1">REGISTERED EMAIL</text>
+  
+      
+    <text x="655" y="508" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2.2" text-anchor="start" opacity="1">PAYLOAD</text>
+    <text x="655" y="541" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="20" font-weight="600" letter-spacing="1.8" text-anchor="start" opacity="1">FRAGMENT 2 OF 2</text>
+  
+      <text x="280" y="634" fill="#55524D" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="400" letter-spacing="2.5" text-anchor="start" opacity="1">LEAVE THIS WINDOW OPEN</text>
+      <g filter="url(#softGlow)">
+        <rect x="1215" y="198" width="510" height="190" rx="4" fill="#11100D" stroke="#715A3D"/>
+        <text x="1260" y="248" fill="#A78252" font-family="DejaVu Sans Mono, monospace" font-size="12" font-weight="400" letter-spacing="3" text-anchor="start" opacity="1">NEW MESSAGE</text>
+        <text x="1260" y="300" fill="#E8E3D8" font-family="DejaVu Sans Mono, monospace" font-size="21" font-weight="700" letter-spacing="2.4" text-anchor="start" opacity="1">MERIDIAN RELAY</text>
+        <text x="1260" y="340" fill="#8B8881" font-family="DejaVu Sans Mono, monospace" font-size="14" font-weight="400" letter-spacing="2.2" text-anchor="start" opacity="1">FRAGMENT 2 OF 2</text>
+      </g>
+    
+  </svg>
